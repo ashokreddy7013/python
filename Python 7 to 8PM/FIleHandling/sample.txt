@@ -1,0 +1,4 @@
+Hello
+this is a sample txt file
+using for file handling in
+python
